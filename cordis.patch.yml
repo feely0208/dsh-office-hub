@@ -1,0 +1,4 @@
+# @deepwhale-cn/dsh-office-hub 的组合层
+- insert:
+    - id: office-hub
+      name: '@deepwhale-cn/dsh-office-hub'
